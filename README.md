@@ -40,7 +40,7 @@ Data Extraction → Data Preprocessing → Exploratory Data Analysis (SQL) → D
 
 - Limit discounts above **20%**, especially for low-margin products.
 - Review product costs (COGS) and pricing strategies for unprofitable sub-categories.
-- Apply different discount strategies based on product profitability instead of using a uniform discount policy. :contentReference.
+- Apply different discount strategies based on product profitability instead of using a uniform discount policy.
 ---
 
 ## 📂 Repository Structure
