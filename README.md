@@ -6,8 +6,7 @@
 
 ## 📌 Project Overview
 
-This project analyzes the financial performance of **Global Superstore**, a multinational retail company, to evaluate pricing and discount strategies. Using SQL, Python, Excel, and Looker Studio, the analysis transforms raw transaction data into business insights and recommendations that support the company's goal of improving profitability. :contentReference[oaicite:1]{index=1}
-
+This project analyzes the financial performance of **Global Superstore**, a multinational retail company, to evaluate pricing and discount strategies. Using SQL, Python, Excel, and Looker Studio, the analysis transforms raw transaction data into business insights and recommendations that support the company's goal of improving profitability.
 ---
 
 ## 🎯 Business Questions
