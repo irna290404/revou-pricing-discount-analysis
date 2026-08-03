@@ -23,7 +23,7 @@ This project aims to answer the following questions:
 
 ## ⚙️ Workflow
 
-Data Extraction → Data Preprocessing → Exploratory Data Analysis (SQL) → Dashboard Development (Looker Studio) → Business Insights & Recommendations. :contentReference[oaicite:3]{index=3}
+Data Extraction → Data Preprocessing → Exploratory Data Analysis (SQL) → Dashboard Development (Looker Studio) → Business Insights & Recommendations.
 
 ---
 
@@ -32,7 +32,7 @@ Data Extraction → Data Preprocessing → Exploratory Data Analysis (SQL) → D
 - Discounts above **20%** significantly reduce profitability.
 - Several high-sales sub-categories (Tables, Bookcases, Supplies, and Fasteners) consistently generate low or negative profit.
 - Losses are driven not only by discount policies but also by low product margins.
-- Similar profit issues are observed across all customer segments, indicating a product-level rather than customer-level problem. :contentReference[oaicite:4]{index=4}
+- Similar profit issues are observed across all customer segments, indicating a product-level rather than customer-level problem.
 
 ---
 
@@ -40,8 +40,7 @@ Data Extraction → Data Preprocessing → Exploratory Data Analysis (SQL) → D
 
 - Limit discounts above **20%**, especially for low-margin products.
 - Review product costs (COGS) and pricing strategies for unprofitable sub-categories.
-- Apply different discount strategies based on product profitability instead of using a uniform discount policy. :contentReference[oaicite:5]{index=5}
-
+- Apply different discount strategies based on product profitability instead of using a uniform discount policy. :contentReference.
 ---
 
 ## 📂 Repository Structure
@@ -58,6 +57,6 @@ presentation/
 
 ## 📁 Dataset
 
-The project uses the original dataset containing **more than 50,000 rows**.
+The project uses the original dataset, which contains **more than 50,000 rows**.
 
 Due to GitHub's file preview limitation, the dataset cannot be displayed directly in the browser. Please download **`RevoU Dataset.csv`** from the `data` folder to view the complete dataset.
