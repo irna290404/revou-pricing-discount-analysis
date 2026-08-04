@@ -60,3 +60,11 @@ presentation/
 The project uses the original dataset, which contains **more than 50,000 rows**.
 
 Due to GitHub's file preview limitation, the dataset cannot be displayed directly in the browser. Please download **`RevoU Dataset.csv`** from the `data` folder to view the complete dataset.
+
+---
+
+## 🔗 Interactive Dashboard
+
+The interactive dashboard was developed using **Looker Studio**.
+
+*[(Insert Looker Studio dashboard link here.)](https://datastudio.google.com/reporting/86743265-5cb7-4aee-ac46-99d569c34eb5)*
